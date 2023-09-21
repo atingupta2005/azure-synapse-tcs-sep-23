@@ -1,0 +1,14 @@
+Storage explorer free download link
+https://sasharestudymtrl61222.blob.core.windows.net/share/StorageExplorer-windows-x64.exe
+
+SQL Server express
+https://sasharestudymtrl61222.blob.core.windows.net/share/SQLEXPR_x64_ENU.exe
+
+SSMS:
+https://sasharestudymtrl61222.blob.core.windows.net/share/SSMS-Setup-ENU.exe
+
+Adventure Works database:
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2017.bak
+
+FactTransactionHistory Data (No need to download):
+https://sasharestudymtrl61222.blob.core.windows.net/share/FactTransactionHistory.txt

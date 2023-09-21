@@ -1,0 +1,30 @@
+You are working in a team which is migrating their Data Factory pipelines to Azure Synapse.
+Currently in Azure Data Factory(ADF), you are having a pipeline which moves the data from Azure Storage account to Azure SQL Server.
+
+You need to plan which resources are to be provisioned in Synapse workspace based on the current pipeline in ADF. Along with that you also need to add new features to your ETL solution to cleanup the code before it can be loaded from Azure Storage Account to Azure SQL database.
+
+What will be your approach to fulfiil above requirement using Synapse?
+
+Which different tools are needed in Synapse to acheive the above requirement? Also please mention that why that resource is needed?
+
+Please create all the resources which are needed.
+
+Also write the script and/or create the Synapse pipeline to fulfiil above requirement
+
+Finally execute the code/pipeline to load data to Azure SQL database.
+
+
+How to submit assignment:
+- Create a word document. Put your official email ID for document file name. Example: synapse-assignment-solution-atin.gupta
+
+- Write you name on the top of the document
+
+- Put you answers to the questions asked above
+
+- For labs, put the screenshots with an explanation.
+
+- Keep your document clean, short and to the point.
+
+- Put as many screenshots as possible to explain the complete flow with the explaination. Around 15 to 20 screenshots should be enough.
+
+- Review the document and send it to below email ID:

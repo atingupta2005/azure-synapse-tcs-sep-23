@@ -1,0 +1,11 @@
+# Data Factory from Synapse Analytics Studio
+- Create SQL PAAS Database in Azure Portal. Take Advanture Sample database
+- Connect to Query Editor and explore data. 
+- We will move data from SalesLT.Product to Synapse DW
+- Open Synapse and open Integrate TAB
+- Click on + sign and Click on Copy Data Tool
+- Specify Source connection to SQL Database
+- Specify target connection to Data Warehouse
+- Enable Polybase checkbox in Settings
+- Run pipeline
+- Once it is done, open SQL DW and verify table is created there
